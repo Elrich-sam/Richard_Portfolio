@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Richard Sam</title>
+    <link>https://gohugo-theme-ananke.pages.dev/</link>
+    <description>Recent content in Data Science Portfolio on Richard Sam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Nov 2023 11:13:32 -0400</lastBuildDate><atom:link href="https://gohugo-theme-ananke.pages.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project III: Water Network Resilience Application</title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/project-3/</link>
+      <pubDate>Tue, 28 Nov 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/project-3/</guid>
+      <description>Developed and deployed a Streamlit application for mapping and predicting the resilience of Victoria&amp;rsquo;s (Canada) water network. Generally visualized the impact of extreme events (heavy rainfall, floods, earthquake) on the resilience of water networks. The application also displayed key metrics that showed such impact and the requirement to improve the resilience of the network.</description>
+    </item>
+    
+    <item>
+      <title>Project II: Movie Recommender App</title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/project-2/</link>
+      <pubDate>Mon, 10 Jul 2023 11:00:59 -0400</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/project-2/</guid>
+      <description>Developed with data collected from IMDB, a movie recommender system that predicts users&amp;rsquo; movie preferences with high accuracy. This system ensured that users were connected with movies that aligned with their interests and passion giving them a personalized and enjoyable movie watching experience.
+This was achieved by creating an SVD++ model which among other querks, extends the traditional collaborative filtering approach by incorporating implicit feedback from user-item interactions which captures user preferences more effectively.</description>
+    </item>
+    
+    <item>
+      <title>Project I: Tweeter Sentiment Classifier App</title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/project-1/</link>
+      <pubDate>Thu, 11 May 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/project-1/</guid>
+      <description>Built and deployed on an EC2 instance, a Streamlit app for sentiment classification of climate-related tweets using Python and machine learning.
+The motivation behind the project was to harness the power of data science to gain insights into public opinions on climate change through the analysis of Twitter data. In an era where climate change is a critical global issue, understanding public sentiment can be pivotal for informed decision-making and advocacy efforts.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://gohugo-theme-ananke.pages.dev/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/about/</guid>
+      <description>That&amp;#39;s me   I am Richard Sam. I am a dedicated and detail-oriented Data Scientist with hands-on experience and a passion for data-driven insights. I had my Data Science training at the ExploreAI Academy where with the help of my wonderful facilators, embarked on a series of project which has developed my skills and broadened my scope in the world of data and machine learning. I have a health background particularly in Medical Laboratory Sciences which I gained from the University Of Ghana.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://gohugo-theme-ananke.pages.dev/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/contact/</guid>
+      <description>   Platforms: URL     LinkedIn: https://www.linkedin.com/in/richard-sam247/   GitHub: https://github.com/Elrich-sam    </description>
+    </item>
+    
+  </channel>
+</rss>
